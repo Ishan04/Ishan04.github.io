@@ -1,5 +1,5 @@
 # main text of home
-name: John Doe
+name: Ishan Tyagi
 bio: A Man who travels the world eating noodles
 
 # twitter summary info
@@ -53,11 +53,11 @@ email: myemail@gmail.com
 
 authors:
     johndoe:
-        name: John Doe
+        name: Ishan
         bio: A Man who travels the world eating noodles
         external-image: false
         picture: assets/images/profile.jpg
-        twitter: johndoe
+        twitter: Ishan
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
